@@ -49,6 +49,8 @@ module Backup
     autoload :SCP,        File.join(STORAGE_PATH, 'scp')
     autoload :RSync,      File.join(STORAGE_PATH, 'rsync')
     autoload :Local,      File.join(STORAGE_PATH, 'local')
+    autoload :Google,      File.join(STORAGE_PATH, 'google')
+
   end
 
   ##

@@ -46,6 +46,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'fog-brightbox', '= 0.7.1'
   gem.add_dependency 'fog-core', '= 1.29.0'
   gem.add_dependency 'fog-ecloud', '= 0.0.2'
+  gem.add_dependency 'fog-google', '= 0.1.1'
   gem.add_dependency 'fog-json', '= 1.0.0'
   gem.add_dependency 'fog-profitbricks', '= 0.0.2'
   gem.add_dependency 'fog-radosgw', '= 0.0.3'
